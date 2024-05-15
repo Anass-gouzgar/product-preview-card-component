@@ -12,6 +12,14 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
+        fraunces: ["Fraunces", "serif"],
+      },
+      colors: {
+        myGray: "#B9B9BB",
+        myGreen: "#3F8067",
+      },
     },
   },
   plugins: [],
